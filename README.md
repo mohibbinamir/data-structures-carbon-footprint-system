@@ -17,6 +17,15 @@ This project uses transportation datasets from three cities to analyse resident 
 - Searching by age group, transport mode, and distance threshold
 - Memory footprint comparison
 
+## Files Included
+
+- `arrayimplementation.cpp` — array-based implementation
+- `linkedlist.cpp` — singly linked list implementation
+- `resident.h` — shared resident structure
+- `dataset1-cityA.csv` — City A dataset
+- `dataset2-cityB.csv` — City B dataset
+- `dataset3-cityC.csv` — City C dataset
+
 ## Technologies Used
 
 - C++
@@ -31,7 +40,6 @@ This project uses transportation datasets from three cities to analyse resident 
 This was a group academic project. My main contributions included:
 - Singly Linked List implementation
 - Final integration support
-- Helping maintain consistency across the combined project structure
 
 ## What I Learned
 
@@ -45,11 +53,11 @@ Through this project, I strengthened my understanding of:
 
 ## Status
 
-Part 1 completed and ready to showcase as an academic project contribution.
+Completed academic group project materials uploaded to showcase the assignment structure and implementation.
 
 ## Note
 
-This repository highlights my completed contribution from the group assignment and related project materials.
+This repository contains the overall assignment code and datasets, while my primary contribution focused on the linked list implementation and final integration support.
 
 ## Author
 
