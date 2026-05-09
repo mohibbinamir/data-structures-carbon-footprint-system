@@ -31,6 +31,7 @@ This project uses transportation datasets from three cities to analyse resident 
 This was a group academic project. My main contributions included:
 - Singly Linked List implementation
 - Final integration support
+- Helping maintain consistency across the combined project structure
 
 ## What I Learned
 
